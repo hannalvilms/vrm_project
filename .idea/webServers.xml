@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c01b858d-2a63-411c-8b8d-f9fee83d78e9" name="vrm" url="http://192.168.17.229:8000/">
+        <fileTransfer host="192.168.17.229" port="22" rootFolder="/var/www/html/vrm-project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
